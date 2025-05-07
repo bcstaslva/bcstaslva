@@ -1,18 +1,46 @@
-# 👋 Olá, eu sou @bcstaslva  
+# 👋 Olá, eu sou @bcstaslva
 
-👀 **Me interesso por:** Algoritmos, estruturas de dados, programação competitiva e qualquer coisa que envolva decompor problemas complexos em soluções elegantes. Também gosto de jogos de tabuleiro estratégicos e quebra-cabeças lógicos—afinal, resolver problemas pode (e deve) ser divertido! 🎲🧩
+Bem-vindo ao meu GitHub! Sou um estudante de Ciência da Computação apaixonado por desenvolvimento backend e por transformar ideias em código limpo e funcional. 🚀
 
-🌱 **Atualmente estou aprendendo:** Técnicas avançadas de algoritmos, design de sistemas e como otimizar código para rodar mais rápido do que minha dose de cafeína. ☕🚀
+## 👀 Me interesso por:
+Desenvolvimento backend com Java, construção de APIs REST, e resolução de problemas com programação orientada a objetos. Também curto explorar estruturas de dados, desafios de programação, e boas práticas que tornam o código elegante e eficiente. Fora do código, gosto de jogos de estratégia e quebra-cabeças lógicos — nada melhor que um bom desafio! 🎮🧩
 
-💞️ **Quero colaborar em:** Projetos open-source, desafios algorítmicos e qualquer iniciativa que envolva escrever código limpo, eficiente e escalável. Se você curte programação competitiva ou análise de dados, vamos conversar! 🔍💡
+## 🌱 Atualmente estou aprendendo:
+Técnicas avançadas de Java e Spring Boot, como otimização de APIs e padrões de projeto. Estou aprofundando meus conhecimentos em JPA, bancos de dados relacionais, e versionamento com Git. Além disso, pratico desafios de programação para aprimorar lógica e eficiência. ☕💻
 
-📫 **Como me encontrar:** Me mande uma mensagem aqui no GitHub ou tente um pombo-correio—só garanta que ele saiba debugar. 🐦💻
+## 💞️ Quero colaborar em:
+Projetos open-source em Java, especialmente com Spring Boot, ou iniciativas que envolvam APIs REST e backend escalável. Se você tem um projeto que precisa de código limpo ou curte resolver desafios técnicos, vamos trabalhar juntos! 🔍💡
 
-😄 **Pronomes:** Ele/Dele
+## 📫 Como me encontrar:
+- **E-mail**: [bcstaslva@gmail.com](mailto:bcstaslva@gmail.com)
+- **GitHub**: [github.com/bcstaslva](https://github.com/bcstaslva)
+- Mande uma mensagem aqui ou tente um pombo-correio (mas ele pode travar na build)! 🐦
 
-⚡ **Curiosidade:** Eu vejo o mundo em notação Big O. Se eu demorar mais que O(1) para responder, provavelmente estou otimizando alguma coisa. 🤓🔥
+## 😄 Pronomes:
+Ele/Dele
 
-<!---
-bcstaslva/bcstaslva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## ⚡ Curiosidade:
+Eu vejo APIs como quebra-cabeças: cada endpoint é uma peça que precisa encaixar perfeitamente. Se eu demorar mais que O(1) para responder, provavelmente estou debugando ou tomando um café extra! ☕🔥
+
+## 🛠️ Projetos Recentes
+- **[Banco Digital](https://github.com/bcstaslva/banco-digital)**: Sistema backend para operações bancárias (depósitos, saques, transferências) com Java, Spring Boot, JPA e H2.
+- **[API de Cidades do Brasil](https://github.com/bcstaslva/api-cidades-brasil)**: API REST para consulta de cidades brasileiras, usando Spring Boot, JPA e MySQL.
+- **[Controle de Ponto](https://github.com/bcstaslva/controle-ponto)**: Sistema de registro de entradas/saídas de funcionários com Spring Boot, JPA e H2.
+
+## 📚 Habilidades
+- **Linguagens**: Java, JavaScript (básico), HTML
+- **Frameworks**: Spring Boot, JPA, Lombok
+- **Bancos de Dados**: MySQL, H2, SQL
+- **Ferramentas**: Git, GitHub, Maven, Postman, Swagger
+- **Outros**: APIs REST, POO, Estruturas de Dados (List, Stack, Queue, HashSet), Streams, DTOs
+
+## 🎓 Formação
+- **Bacharelado em Ciência da Computação**, Faculdade Descomplica (2025 - Presente, 1º semestre)
+
+## 🏆 Certificações
+- Formação Lógica de Programação (DIO, 41h, 2024)
+- Introdução ao Spring Boot (20h, 2024)
+- Versionamento com Git e GitHub (DIO, 2h, 2024)
+- Formação HTML Web Developer (DIO, 21h, 2024)
+
+Obrigado por visitar meu perfil! Vamos construir algo incrível juntos? 🚀
