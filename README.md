@@ -16,9 +16,6 @@ Projetos open-source em Java, especialmente com Spring Boot, ou iniciativas que 
 - **GitHub**: [github.com/bcstaslva](https://github.com/bcstaslva)
 - Mande uma mensagem aqui ou tente um pombo-correio (mas ele pode travar na build)! 🐦
 
-## 😄 Pronomes:
-Ele/Dele
-
 ## ⚡ Curiosidade:
 Eu vejo APIs como quebra-cabeças: cada endpoint é uma peça que precisa encaixar perfeitamente. Se eu demorar mais que O(1) para responder, provavelmente estou debugando ou tomando um café extra! ☕🔥
 
